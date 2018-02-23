@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypt0Tracker", "Crypt0Tracker\Crypt0Tracker.csproj", "{335689F9-B302-4AC2-811F-395415D08AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypt0Tracker.Tests", "Crypt0Tracker.Tests\Crypt0Tracker.Tests.csproj", "{BCA87AAB-3FAC-4104-8DD0-83E74C344999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335689F9-B302-4AC2-811F-395415D08AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335689F9-B302-4AC2-811F-395415D08AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335689F9-B302-4AC2-811F-395415D08AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335689F9-B302-4AC2-811F-395415D08AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA87AAB-3FAC-4104-8DD0-83E74C344999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA87AAB-3FAC-4104-8DD0-83E74C344999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA87AAB-3FAC-4104-8DD0-83E74C344999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA87AAB-3FAC-4104-8DD0-83E74C344999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
